@@ -7,7 +7,6 @@ void main() {
 
 // For Sum
   num sum = num1 + num2 + num3 + num4;
-
 // Printing Info
   print("Num 1 is $num1");
   print("Num 2 is $num2");
