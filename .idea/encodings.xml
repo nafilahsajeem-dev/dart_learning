@@ -1,54 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/access_item_of_list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/access_value_from_key.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acess_first_and_last_element.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/add_and_remove_item_in_set.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/add_item_to_list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/add_item_to_list2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/add_new_content_to_previous.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adding_element_to_map.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adding_multiple_items_in_set.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anonymous_function.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/anonymous_function_dart.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arithmetic.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arithmetic_calculation.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/assert_in_dart.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/assignment_operator.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boolean.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/capitalize_first_letter_of_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/change_values_of_list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/check_available_value_in_set.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/check_list_empty_or_not.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/check_map_specific_key_or_value.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/check_runtime_type.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class_in_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clear_set.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/combine_two_or_more_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/compare_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/conditions_in_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/convert_double_to_int.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/convert_int_to_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/convert_map_key_and_value_to_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/convert_string_to_double.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/convert_string_to_int.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/convert_string_to_uppercase_and_lowercase.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/create.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/create_and_handle_exception1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/create_and_handle_exception2.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart task/check_prime_or_not.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart task/factorial_of_number.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart task/swap_two_variables.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/difference_in_set.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/documentation_comment.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamically_typed.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/element_at_method_in_set.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/even_numbers_between_two_values.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example_for_toString.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_break.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_break_in_nagative_for_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_break_in_switch_case.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_break_in_while_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_continue.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_continue_in_for_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_continue_in_while_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_false_condition.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_of_map_properties.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fibonacci_recursion.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fibonacci_series.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/file_information.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filter_days_start_wuth_s.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filter_odd_number_from_list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/finally_in_try_catch.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find_index_value_of_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find_simple_interrest_using_function.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/first_last_name.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fixed_length_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/floating_point_user_input.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/for_loop.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/for_loop2.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/for_loop3.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/get_index_by_value.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/global_scope.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/greatest_number_among_three.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/growable_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/if_condition.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/if_else_condition.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/if_else_condition_in_boolean.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/if_else_if_condition.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/insert_item_to_list1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/insert_item_to_list2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/insertion_method_in_set.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/integer_user_input.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/length_of_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/list_of_random_number.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/logical_operator.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/looping_in_map_using_foreach.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/looping_over_element_of_map.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loops_in_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/main.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/map_in_dart.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/maps.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/math_in_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/method_scope.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multi_line_comment.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multiply_all_element_by_two_in_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multyline_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/named_parameter.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/no_parameter_and_return_type_function2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/no_parameter_and_returntype_voterage.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/no_parameter_function1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/no_parameter_function2.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/numbers.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/object_in_class.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/optional_parameter.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parameter_and_no_return_type_function1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parameter_and_no_return_type_function2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parameter_and_returntype.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parameter_and_returntype1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parameter_and_returntype_complete.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/positional_defaultvalue.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/positional_defaultvalue1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/positional_parameter.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pre_and_post_increment.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_even_numbers_using_while_loop.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/print_name.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_one_to_ten_using_do_while.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_one_to_ten_using_while.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_sum_of_natural_numbers.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_sum_of_natural_numbers_using_do_while.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_ten_to_one_using_do_while.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_ten_to_one_using_while.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_using_foreach_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/printing_all_values_in_set.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/random_boolean_double.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/random_number_between_10_and_20.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/random_numbers_in_dart.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/raw_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/read_content_in_file.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/read_csv_file.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/relational_operator.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remove_item_from_list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remove_item_from_list2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remove_item_from_map.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remove_last_item_from_list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remove_list_range_from_list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remove_where_in_map.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/replace_range_of_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/replace_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/required_named_parameter.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reverse_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/reverse_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/round_double_to_decimal.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/runes_in_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/set_in_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/set_properties_example.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple_calculation_witharrow.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple_interest.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple_interest_with_arrowfunction.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/single_line_comment.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/special_character.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/split_string.dart" charset="UTF-8" />
@@ -65,10 +165,19 @@
     <file url="file://$PROJECT_DIR$/ternary_operator.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ternary_operator_example2.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ternary_operator_example3.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/throwing_an_exception.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/total_and_average_of_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/trim_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try_catch_in_dart.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/type_test_operator.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unicode_value_of_each_character.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/updating_element_of_map.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/var_keyword.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variable_and_print_values.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/weather_checking.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/where_filter_in_map.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/where_in_list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/write__to_file_in_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/write_csv_file.dart" charset="UTF-8" />
   </component>
 </project>
